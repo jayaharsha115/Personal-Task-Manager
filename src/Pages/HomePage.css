@@ -1,0 +1,12 @@
+.home-page {
+  text-align: center;
+  margin-top: 2em;
+}
+
+.home-page h2 {
+  margin-bottom: 1em;
+}
+
+.home-page p {
+  font-size: 1.2em;
+}

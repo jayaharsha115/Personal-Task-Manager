@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  background-image: url(../src/Assets/bg1.jpg);
+  background-size: cover; 
+  background-position: center; 
+}
+
+header, footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 1em 0;
+}
+
+main {
+  padding: 1em;
+  padding-bottom: 4rem;
+}
+
+button {
+  margin-right: 0.5em;
+}

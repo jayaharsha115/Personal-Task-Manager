@@ -1,0 +1,39 @@
+.tasks-page {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.tasks-page h2 {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.task-list {
+  list-style: none;
+  padding: 0;
+}
+
+.task-item {
+  background-color: #fff;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.task-item:last-child {
+  margin-bottom: 0;
+}
+
+.task-item p {
+  margin: 0;
+}
+
+.task-item.completed {
+  background-color: #f2f2f2;
+  text-decoration: line-through;
+}

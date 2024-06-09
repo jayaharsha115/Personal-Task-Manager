@@ -1,0 +1,15 @@
+.about-page {
+    margin: 2em auto;
+    max-width: 600px;
+    text-align: center;
+  }
+  
+  .about-page h2 {
+    margin-bottom: 1em;
+  }
+  
+  .about-page p {
+    font-size: 1.1em;
+    line-height: 1.6;
+  }
+  
